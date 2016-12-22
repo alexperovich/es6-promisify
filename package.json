@@ -20,7 +20,8 @@
   "bugs": "http://github.com/digitaldesignlabs/es6-promisify/issues",
   "files": [
     "dist/promisify.js",
-    "dist/promise.js"
+    "dist/promise.js",
+    "index.d.ts"
   ],
   "repository": {
     "type": "git",
